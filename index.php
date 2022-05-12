@@ -21,12 +21,12 @@
 			<label for="nombre">Nombre:</label>
 			<input id="nombre" type="text" name="nombre"><br />
 			<label for="apaterno">Apellido paterno:</label>
-			<input id="nombre" type="text" name="apaterno"><br />
+			<input id="apaterno" type="text" name="apaterno"><br />
 			<label for="amaterno">Apellido materno:</label>
-			<input id="nombre" type="text" name="amaterno"><br />
+			<input id="amaterno" type="text" name="amaterno"><br />
 			<label for="email">Correo electrónico:</label>
 			<input id="email" type="email" name="correo"><br />
-			<input type="submit" name="Submit">
+			<button>enviar</button>
 		</form>
 	</body>
 </html>
